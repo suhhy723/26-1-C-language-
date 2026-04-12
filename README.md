@@ -10,6 +10,6 @@
 | 26-1 practice | 실습 모음 |
 
 ## 🛠️ 사용 언어
-![C](https://img.shields.io/badge/C언어-00599C?style=flat-square&logo=c&logoColor=white)
+- C/C++
 ## 📅 학기
 - 2026년 1학기
