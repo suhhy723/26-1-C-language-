@@ -34,3 +34,15 @@ C/C++
 | week4_practice7.cpp | 월별 날짜 수 출력 | switch-case |
 | week4_practice8.cpp | 세 정수 중 최댓값 출력 | if-else |
 | week4_practice9.cpp | 양수 5개 입력 후 3의 배수 판별 및 합산 | for + switch |
+
+### Week 5
+| 파일 | 내용 | 핵심 개념 |
+|------|------|-----------|
+| week5_practice1.cpp | 정수 사칙연산 | switch-case / 0나누기 처리 |
+| week5_practice2.cpp | 구구단 출력 | for문 |
+| week5_practice3.cpp | 5명 성적 총점/평균 | for문 / float 형변환 |
+| week5_practice4.cpp | 5개 정수 역순 출력 | 배열 / for문 |
+| week5_practice5.cpp | 5개 정수 최댓값 | 배열 / if문 |
+| week5_practice6.cpp | 소수 판별 | for문 / 조건문 |
+| week5_practice7.cpp | 별 삼각형 출력 | 중첩 for문 |
+| week5_practice8.cpp | 3명 학생 성적 총점/과목별 평균 | 2차원 배열 |
